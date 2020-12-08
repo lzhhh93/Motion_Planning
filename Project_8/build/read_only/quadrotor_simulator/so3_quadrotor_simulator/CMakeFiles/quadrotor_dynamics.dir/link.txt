@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -O0 -Wall -g -ggdb  -shared -Wl,-soname,libquadrotor_dynamics.so -o /home/zhanhao/Project/src/__MACOSX/devel/lib/libquadrotor_dynamics.so CMakeFiles/quadrotor_dynamics.dir/src/dynamics/Quadrotor.cpp.o 

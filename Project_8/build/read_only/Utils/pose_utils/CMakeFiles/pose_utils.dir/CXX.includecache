@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/pose_utils/include/pose_utils.h
+iostream
+-
+armadillo
+/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/pose_utils/include/armadillo
+
+/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/pose_utils/src/pose_utils.cpp
+pose_utils.h
+/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/pose_utils/src/pose_utils.h
+

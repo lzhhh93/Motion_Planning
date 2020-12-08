@@ -1,0 +1,2 @@
+quadrotor_msgs:rviz_plugins:waypoint_generator:waypoint_trajectory_generator
+-DCATKIN_DEVEL_PREFIX=/home/zhanhao/catkin_ch5/devel -DCMAKE_INSTALL_PREFIX=/home/zhanhao/catkin_ch5/install -G Unix Makefiles

@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/zhanhao/Project/src/__MACOSX/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/read_only/map_server/map_generator/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/pose_utils/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/read_only/Utils/quadrotor_msgs/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/read_only/quadrotor_simulator/so3_control/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/read_only/quadrotor_simulator/so3_quadrotor_simulator/include/**",
+                "/home/zhanhao/Project/src/__MACOSX/src/trajectory_generator/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

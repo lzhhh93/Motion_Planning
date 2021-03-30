@@ -2,7 +2,7 @@
 
 Here are 8 Projects I have done about the topic motion planing.
 
-The 8th project is the whole design for Quadrotor in a lattice map, which is mz biggest project, the others are the popular algorithms for motion planning. 
+The 8th project is the whole design for Quadrotor in a lattice map, which is my biggest project, the others are the popular algorithms for motion planning. 
 
 Project 1 C++
 

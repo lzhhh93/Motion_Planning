@@ -23,6 +23,6 @@ Project 7 PYTHON
 
 RTDP algorithm
 
-Project 8 MATLAB
+Project 7 MATLAB
 
 MPC

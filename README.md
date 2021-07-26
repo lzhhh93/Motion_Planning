@@ -1,28 +1,29 @@
 # Motion_Planning
-Project 2 MATLAB C++
+
+Here are 8 Projects I have done about the topic motion planing.
+
+The 8th project is the whole design for Quadrotor in a lattice map, which is my biggest project, the others are the popular algorithms for motion planning. 
+
+Project 1 C++
 
 A* search
+JPS search
 
-Project 3 MATLAB C++ (OMPL)
+Project 2 MATLAB C++ (OMPL)
 
 RRT*
 
 Project 4 C++
 
-Local Lattice Planner
+Minimal Snap Trajectory Generatio
 
-Project 5 MATLAB C++
+Project 6 PYTHON
 
-Minimal Snap Trajectory Generation
+RTDP(Real Time Dynamic Programming) algorithm for car racing problem 
 
-Project 6 MATLAB
+Project 7 Matlab
 
-Bezier Curve Optimization with hard constraints
+MPC for 2 problems
 
-Project 7 PYTHON
-
-RTDP algorithm
-
-Project 7 MATLAB
-
-MPC
+Project 8 C++
+A whole Design for the motion planing modul of Quadrotor in lattice map 
